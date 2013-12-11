@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=x\ y\ r
+comment0.target=BurdellTower(int,\ int,\ java.awt.Rectangle)
+comment0.text=\n\ This\ constructs\ a\ Burdell\ Tower\n\ @param\ x-\ the\ x\ location\ of\ the\ tower\n\ @param\ y-\ the\ y\ location\ of\ the\ tower\n\ @param\ r-\ the\ rectangle\ where\ the\ tower\ is\ located\n
+comment1.params=
+comment1.target=int\ getMoney()
+comment1.text=\n\ This\ returns\ the\ cost\ of\ the\ Burdell\ tower\n\ @return\ 300-\ the\ cost\ of\ the\ tower\n
+comment2.params=g
+comment2.target=void\ draw(java.awt.Graphics)
+comment2.text=\n\ This\ draws\ the\ Burdell\ Tower.\n\ But\ this\ isn't\ the\ actual\ picture\n\ No\ one\ knows\ what\ a\ true\ Burdell\ Tower\n\ looks\ like.\n\ @param\ g-\ the\ graphics\ where\ the\ tower\ is\ in\n
+numComments=3

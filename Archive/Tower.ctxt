@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=x\ y\ r
+comment0.target=Tower(int,\ int,\ java.awt.Rectangle)
+comment0.text=\n\ This\ is\ the\ basic\ constructor\ for\ a\ Tower\ object.\n\ @param\ x-\ the\ x\ location\ of\ the\ Tower\n\ @param\ y-\ the\ y\ location\ of\ the\ Tower\n\ @param\ r-\ the\ rectangle\ where\ the\ Tower\ is\ in\n
+comment1.params=g
+comment1.target=void\ draw(java.awt.Graphics)
+comment1.text=\n\ This\ is\ the\ draw\ method\ for\ a\ Tower.\n\ All\ Tower\ subclasses\ override\ this\ method.\n\ @param\ g-\ the\ graphics\ where\ the\ Tower\ is\ drawn\n
+comment2.params=m
+comment2.target=void\ setMoney(int)
+comment2.text=\n\ This\ sets\ the\ cost\ of\ the\ tower.\n\ @param\ m-\ the\ cost\n
+comment3.params=r
+comment3.target=void\ setRange(int)
+comment3.text=\n\ This\ sets\ the\ range\ of\ the\ tower.\n\ @param\ r-\ the\ range\ of\ the\ tower.\n
+comment4.params=d
+comment4.target=void\ setDamage(int)
+comment4.text=\n\ This\ sets\ the\ damage\ of\ the\ tower.\n\ @param\ d-\ the\ damage\ of\ the\ tower.\n
+comment5.params=s
+comment5.target=void\ setSpread(int)
+comment5.text=\n\ This\ sets\ the\ spread\ of\ the\ tower.\n\ @param\ s-\ the\ spread\ of\ the\ tower\n
+numComments=6

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=x\ y\ r
+comment0.target=BuzzTower(int,\ int,\ java.awt.Rectangle)
+comment0.text=\n\ This\ constructs\ a\ nice\ buzz\ tower\n\ The\ cost,\ range,\ damage,\ and\ spread\ are\ all\ defined\ here\n\ @param\ x\ the\ x\ location\ of\ the\ tower\n\ @param\ y\ the\ y\ location\ of\ the\ tower\n\ @param\ r\ the\ rectangle\ where\ the\ tower\ is\ located\n
+comment1.params=
+comment1.target=int\ getMoney()
+comment1.text=\n\ This\ returns\ the\ cost\ of\ an\ arbitrary\ buzz\ tower\n\ @return\ the\ cost\ which\ is\ 50\n
+comment2.params=g
+comment2.target=void\ draw(java.awt.Graphics)
+comment2.text=\n\ This\ draws\ the\ buzz\ tower\ for\ all\ to\ see.\n\ @param\ g\ the\ graphics\ context\ where\ this\ tower\ is\n
+numComments=3

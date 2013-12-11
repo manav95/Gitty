@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y\ r
+comment0.target=GeorgiaBulldog(int,\ int,\ java.awt.Rectangle)
+comment0.text=\n\ This\ constructs\ a\ Bulldog.\n\ @param\ x-\ x\ location\ of\ the\ bulldog\n\ @param\ y-\ y\ location\ of\ the\ bulldog\n\ @param\ r-\ rectange\ where\ bulldog\ is\n
+comment1.params=g
+comment1.target=void\ draw(java.awt.Graphics)
+comment1.text=\n\ This\ draws\ a\ bulldog\n\ @param\ g-\ graphics\ where\ the\ bulldog\ is\ located\n
+numComments=2

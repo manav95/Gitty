@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y\ r
+comment0.target=GeorgiaFan(int,\ int,\ java.awt.Rectangle)
+comment0.text=\n\ This\ constructs\ a\ Georgia\ Fan.\n\ @param\ x-\ the\ x\ location\ of\ the\ Georgia\ Fan\n\ @param\ y-\ the\ y\ location\ of\ the\ Georgia\ Fan\n\ @param\ r-\ the\ rectangle\ where\ the\ Fan\ is\ in\n
+comment1.params=g
+comment1.target=void\ draw(java.awt.Graphics)
+comment1.text=\n\ This\ draws\ a\ Georgia\ fan.\n\ @param\ g-\ the\ graphics\ where\ the\ Georgia\ fan\n\ is\ located.\n
+numComments=2

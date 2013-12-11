@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y\ r
+comment0.target=ManavDutta(int,\ int,\ java.awt.Rectangle)
+comment0.text=\n\ This\ constructs\ a\ digital\ copy\ of\ me.\n\ They\ feel\ a\ lot\ like\ my\ own\ children.\n\ @param\ x-\ the\ x\ location\ of\ my\ copy\n\ @param\ y-\ the\ y\ location\ of\ my\ copy\n
+comment1.params=g
+comment1.target=void\ draw(java.awt.Graphics)
+comment1.text=\n\ This\ draws\ the\ copy\ of\ me.\n\ I\ look\ pretty\ good\ don't\ you\ think.\n\ @param\ g-\ the\ graphics\ where\ I\ am.\n
+numComments=2

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=x\ y\ r
+comment0.target=Enemy(int,\ int,\ java.awt.Rectangle)
+comment0.text=\n\ This\ is\ the\ basic\ constructor\ used\ for\ enemies\n\ @param\ x-\ the\ x\ location\ of\ the\ object\n\ @param\ y-\ the\ y\ location\ of\ the\ object\n\ @param\ r-\ the\ rectangle\ where\ the\ object\ is\ located\n
+comment1.params=g
+comment1.target=void\ draw(java.awt.Graphics)
+comment1.text=\n\ This\ is\ the\ draw\ method\ for\ enemies.\n\ All\ the\ enemy\ subclasses\ override\ it.\n\ @param\ g-\ the\ graphics\ where\ the\ enemy\ is\ drawn\n
+comment2.params=
+comment2.target=Enemy\ enemyClone()
+comment2.text=\n\ This\ is\ a\ method\ to\ create\ a\ copy\ of\ an\ enemy\ object\n\ @return\ the\ cloned\ enemy\n
+comment3.params=s
+comment3.target=void\ setSpeed(int)
+comment3.text=\n\ This\ sets\ the\ enemy's\ speed\n\ @param\ s-\ the\ enemy's\ speed\n
+comment4.params=h
+comment4.target=void\ setHealth(int)
+comment4.text=\n\ This\ sets\ the\ enemy's\ health\n\ @param\ h-\ the\ enemy's\ health\n
+numComments=5

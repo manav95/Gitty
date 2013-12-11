@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=x\ y\ r
+comment0.target=SimpkinsTower(int,\ int,\ java.awt.Rectangle)
+comment0.text=\n\ This\ constructs\ a\ Simpkins\ Tower\n\ @param\ x-\ the\ x\ location\ of\ the\ tower\n\ @param\ y-\ the\ y\ location\ of\ the\ tower\n\ @param\ r-\ the\ rectangle\ of\ the\ tower\n
+comment1.params=
+comment1.target=int\ getMoney()
+comment1.text=\n\ This\ returns\ the\ cost\ of\ the\ Simpkins\ Tower\n\ @return\ 100-\ the\ cost\ of\ the\ Simpkins\ Tower\n
+comment2.params=g
+comment2.target=void\ draw(java.awt.Graphics)
+comment2.text=\n\ This\ draws\ the\ Simpkins\ Tower\n\ @param\ g-\ the\ graphics\ where\ the\ tower\ is\ located\n
+numComments=3

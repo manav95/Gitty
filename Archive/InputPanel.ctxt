@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=t
+comment0.target=InputPanel(javax.swing.Timer)
+comment0.text=\n\ This\ constructs\ the\ whole\ input\ panel\n\ with\ the\ various\ tower\ buttons\ and\n\ the\ button\ to\ send\ in\ a\ wave\ of\ enemies.\n\ @param\ t-\ the\ timer\n
+comment1.params=
+comment1.target=java.lang.String\ getTowerType()
+comment1.text=\n\ This\ returns\ the\ type\ of\ the\ tower.\n\ @return\ the\ type\ of\ the\ tower\n
+comment2.params=
+comment2.target=void\ setMoney()
+comment2.text=\n\ This\ sets\ the\ money\ the\ player\ has.\n\ This\ is\ displayed\ on\ the\ panel.\n
+comment3.params=
+comment3.target=void\ setScore()
+comment3.text=\n\ This\ sets\ the\ player's\ score.\n
+numComments=4
