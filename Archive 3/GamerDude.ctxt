@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y\ r
+comment0.target=GamerDude(int,\ int,\ java.awt.Rectangle)
+comment0.text=\n\ This\ constructs\ a\ GamerDude.\n\ @param\ x-\ x\ location\ of\ the\ gamer\ dude\n\ @param\ y-\ y\ location\ of\ the\ gamer\ dude\n\ @param\ r-\ rectangle\ gamer\ dude\ is\ in\n
+comment1.params=g
+comment1.target=void\ draw(java.awt.Graphics)
+comment1.text=\n\ This\ draws\ a\ gamer\ dude.\n\ @param\ g-\ the\ graphics\ of\ the\ gamer\ dude\n
+numComments=2
